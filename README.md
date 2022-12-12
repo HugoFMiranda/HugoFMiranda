@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **nodejs, go and vuejs**
 
-- 👨‍💻 All of my projects are available at [portosaurus.github.io/HugoMiranda/](portosaurus.github.io/HugoMiranda/)
+- 👨‍💻 All of my projects are available at [[portosaurus.github.io/HugoMiranda/](https://portosaurus.github.io/HugoMiranda/)](portosaurus.github.io/HugoMiranda/)
 
 - 📫 How to reach me **hugo.miranda.imp@gmail.com**
 
