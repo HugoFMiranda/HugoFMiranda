@@ -2,7 +2,7 @@
 <h3 align="center">A passionate engineering student</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif">
 
-<p align="left"> <a href="https://twitter.com/ffalc0nn" target="blank"><img src="https://img.shields.io/twitter/follow/ffalc0nn?logo=twitter&style=for-the-badge" alt="ffalc0nn" /></a> </p>
+<p align="left"> <a href="https://hugomiranda.engineer" target="blank">hugomiranda.engineer</a> </p>
 
 - 🔭 I’m currently working on **improving my experience**
 
