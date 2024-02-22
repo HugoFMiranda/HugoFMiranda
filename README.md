@@ -2,8 +2,6 @@
 <h3 align="center">Full Stack Developer at 🤖yo</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif">
 
-<h3 align="left">Personal website: <a href="https://hugomiranda.engineer" target="blank">hugomiranda.engineer</a> </h3>
-
 - 🔭 I’m currently working at 🤖yo
 
 - 🌱 I’m currently working with Aurelia and Laravel mostly
