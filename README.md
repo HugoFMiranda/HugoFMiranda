@@ -15,7 +15,6 @@
 <a href="https://twitter.com/ffalc0nn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ffalc0nn" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hugo-jose-ferreira-miranda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hugo-jose-ferreira-miranda" height="30" width="40" /></a>
 <a href="https://instagram.com/h_ugomiranda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="h_ugomiranda" height="30" width="40" /></a>
-</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hugofmiranda&show_icons=true&theme=dark&locale=en&layout=compact" alt="hugofmiranda" /></p>
 
