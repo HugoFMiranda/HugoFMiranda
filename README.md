@@ -2,5 +2,5 @@
 <h3 align="left">Hi, I'm Hugo Miranda | Full Stack Developer</h1>
 
 - Currently experimenting with inertiajs
-- Most of my personal projects are built with **Next.js & React**
+- Most of my personal projects are built with **Next.js & React**, I'm also prototyping with inertia with react and laravel right now.
 - At work, I use **Laravel & Aurelia**
