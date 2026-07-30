@@ -3,6 +3,6 @@
 
 - Currently experimenting with inertiajs
 - Most of my personal projects are built with **Next.js & React**, I'm also prototyping with inertia with react and laravel right now.
-- At work, I use **Laravel & Aurelia**
+- At work, I use **Laravel & React** most of the time
 
 - Some projects: https://hub.falcon-apps.duckdns.org/
