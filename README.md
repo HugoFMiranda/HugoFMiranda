@@ -5,4 +5,4 @@
 - Most of my personal projects are built with **Next.js & React**, I'm also prototyping with inertia with react and laravel right now.
 - At work, I use **Laravel & React** most of the time
 
-- More info: [https://hub.falcon-apps.duckdns.org/](https://hugofmiranda.com/)
+- More info: [hugofmiranda.com](https://hugofmiranda.com/)
