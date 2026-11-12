@@ -1,8 +1,6 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif">
-<h3 align="left">Hi, I'm Hugo Miranda | Full Stack Developer</h1>
+<h3 align="left">Hi, I'm Hugo</h1>
 
-- Currently experimenting with inertiajs
-- Most of my personal projects are built with **Next.js & React**, I'm also prototyping with inertia with react and laravel right now.
-- At work, I use **Laravel & React** most of the time
+I write code. Occasionally, it does what I intended.
 
-- More info: [hugofmiranda.com](https://hugofmiranda.com/)
+[hugofmiranda.com](https://hugofmiranda.com/)
